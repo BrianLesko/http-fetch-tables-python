@@ -2,6 +2,8 @@
 
 Basic fetch using http request and parse using bs4, Then plot the data using streamlit UI.
 
+[preview.png](preview.png)
+
 ## Run locally
 
 ``` bash
